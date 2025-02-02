@@ -1,0 +1,37 @@
+.box {
+  border: 1px solid red;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: absolute;
+}
+
+button {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+#right {
+  position: fixed;
+  bottom: 0;
+  left: 100px;
+}
+
+#left {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+#up {
+  position: fixed;
+  bottom: 30px;
+  left: 20px;
+}
+
+#down {
+  position: fixed;
+  bottom: 0;
+  left: 50px;
+}
